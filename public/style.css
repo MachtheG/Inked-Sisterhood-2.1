@@ -760,7 +760,7 @@ footer {
   position: relative;
   max-width: 800px;
   margin: 0 auto;
-  padding: 1rem 0;
+  padding: 4rem 0;
 }
 .timeline::before {
   content: '';
@@ -779,7 +779,7 @@ footer {
 }
 .timeline-year {
   min-width: 100px;
-  font-size: 1.3rem;
+  font-size: 1.5rem;
   font-weight: 800;
   color: var(--secondary);
   text-align: center;
